@@ -1,0 +1,11 @@
+Django
+djangorestframework
+Pillow
+opencv-python-headless
+numpy
+openai
+python-dotenv
+elevenlabs
+django-cors-headers
+python-dotenv
+tiktoken
